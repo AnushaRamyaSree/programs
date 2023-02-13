@@ -1,0 +1,33 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>
+                MOTHER THERESA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+            </title>
+        </head>
+        <body>
+            <h1>My Personal Website:</h1>
+            <h2>Name:</h2>
+            <h3>Department:</h3>
+            <h4>College name:</h4>
+            <h5 style=font-size=20;>About Me</h5>
+            <p>On the website you are going to know the basic details of myself.My name is Y.Anusha Ramya Sree
+            and I'm studying 3rd year at MOTHER THERESA INSTITUTE OF ENGINEERING AND TECHNOLOGY My department 
+            of specification is ELECTRONICS AND COMMUNICATION OF ENGINEERING.</p>
+            <strong>Basic Details</strong>
+            <i>MySelf</i>
+            <em><b>Your Name</b></em>
+            <p>I'm really happy to study this <abbr title="Bachlore of Education">B.E</abbr> course in this prestigious
+            institution</p>
+            <address>College Name</address>
+            <!-- note the juniors prefer this college for your bright future-->
+            <img src="https://www.liveclefs.com/artists/vijay-devarakonda/#group.jpj" handsome me>
+            <img src="https://www.yuvamind.com/colleges/mother-theresa-institute-of-engineering-and-technology-chittoor.jpj" Mycollege>
+            <p>That all about me.Contact details of your:
+            phoneno:
+            mail id:
+            website:</p>
+        </body>
+    </html>
+</DOCTYPE>
+    
