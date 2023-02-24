@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>
+                MOTHER THERESA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+            </title>
+       </head>
+       <body style=""background-color:#00080;" align="center"><font color="white">
+        <style>
+            body{
+                background-image:url('https://images.squarespace-cdn.com/content/v1/56aa69733c44d876d31d54de/1589601528142-HUEUJUS8742S278N8UVV/David_-_The_Death_of_Socrates.jpg?format=1500w');
+            }
+        </style>
+        <script>
+            console.log(5+6);
+        </script>
+            <div align="center">
+            <h1 ><font color="blue;">My Personal Website</font></h1>
+            </div>
+            <h2 style="font-size:25px;font-family=arial">...Y.Anusha Ramya sree...</h2>
+            <h3 style="font-size:25px;font-family=arial">ELECTRONICS AND COMMUNICATION ENGINEERING</h3>
+            <h4 style="font-size:25px;font-family=arial"> MOTHER THERESA INSTITUTE OF ENGINEERING AND TECHNOLOGY</h4>
+            
+            <h5 style="font-size:50px;font-family=arial">About Me</h5>
+            <line>
+                <p>I'm really happy to study this <abbr title="Bachlore of Education">B.E</abbr> course in this prestigious
+            institution</p>
+            </line>
+            <p>On the <b>website </b>you are going to know the basic details of myself. My name is Y.Anusha Ramya Sree
+            and I'm studying 3rd year at <bre>MOTHER THERESA INSTITUTE OF ENGINEERING AND TECHNOLOGY</bre> My 
+            department 
+            of specification is ELECTRONICS AND COMMUNICATION OF ENGINEERING.</p>
+            <strong>Basic Details:</strong>
+            <i>MySelf</i>
+            <em><b>Y.Anusha Ramya Sree</b></em>
+            <p>I'm really happy to study this <abbr title="Bachlore of Education">B.E</abbr> course in this prestigious
+            institution of</p>
+            <address>MOTHER THERESA INSTITUTE OF ENGINEERING AND TECHNOLOGY.</address>
+            <!-- note the juniors prefer this college for your bright future-->
+            <img src="https://yt3.googleusercontent.com/ytc/AL5GRJXeGZgZj9JWmFlFhWDoMeW_h9ksUw6gHh_urUorDg=s900-c-k-c0x00ffffff-no-rj" height="400" width="400">
+            <img src="https://letusstudy.in/storage/colleges/gallery/5259/6306/290320210212.jpg" height="400" width="400">
+            <p>That all about me</p>
+           <p>Contact details of your:
+            phoneno:
+            mail id:
+            website:</p>
+            <p> I have alot to say about me,if i say this web content might cross its word limit</p>
+            <q style="font-size:20px;">My Life...My Rules</q>
+            <p style="font-size:20px;"> If your are bad,I'm your bad</p>
+        </body>
+    </html>
+</DOCTYPE>
